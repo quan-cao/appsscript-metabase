@@ -13,4 +13,4 @@ Apps Script for Metabase users.
 ## Behind the scene
 You can read more about why does this script exist and maybe some in-depth details for usage via the link below.
 
-
+[Google App Script for Metabase User](https://medium.com/@quancao2802/google-apps-script-for-metabase-users-edfb934fb70c)
